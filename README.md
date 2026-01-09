@@ -7,6 +7,8 @@ Spectrogram representations of annotated seal calls are extracted from raw audio
 
 The project focuses on a binary classification task between **Rupe A** and **Rupe B** vocalisations and is structured to demonstrate a clear, reproducible machine learning workflow from raw data preprocessing to model evaluation.
 
+This work was completed as part of a machine learning module and follows the recommended GitHub Classroom workflow.
+
 ---
 
 ## Repository Structure
@@ -24,7 +26,7 @@ FINALPROJECT-HUGCAMROM/
 │ └── spectrogram_utils.py # Reusable audio and spectrogram utilities
 │
 ├── BackgroundInfo/
-│ └── Grey Seal - Software, Paper & Sounds.pptx
+│ └── Grey Seal - Software, Paper and Sounds.pptx
 │
 ├── data_processed/ # Locally generated datasets (ignored by git)
 ├── README.md
@@ -81,3 +83,5 @@ Detailed results and discussion are provided directly within the training notebo
 ## Notes
 
 References and background literature are cited within the Jupyter notebooks rather than duplicated here.
+
+This project was completed by Hugo Camacho Romero.
