@@ -27,6 +27,9 @@ FINALPROJECT-HUGCAMROM/
 │
 ├── BackgroundInfo/
 │ └── Grey Seal - Software, Paper and Sounds.pptx
+│ ├── Spectrogram.ipynb
+│ ├── Spectrogram.py
+│ └── spectrogram.png
 │
 ├── data_processed/ # Locally generated datasets (ignored by git)
 ├── README.md
