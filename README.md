@@ -15,7 +15,7 @@ This work was completed as part of a machine learning module and follows the rec
 
 ```bash
 
-FINALPROJECT-HUGCAMROM/
+machine-learning-projects/
 │
 ├── notebooks/
 │ ├── 01_preprocessing.ipynb # Data extraction, spectrogram generation, dataset creation
